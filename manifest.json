@@ -1,9 +1,0 @@
-{
-  "name": "Pokémon GO Shop",
-  "short_name": "PGS Shop",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#12131c",
-  "theme_color": "#12131c",
-  "icons": []
-}
